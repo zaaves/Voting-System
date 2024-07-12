@@ -18,7 +18,7 @@ This is a backend application for a voting system where users can vote for candi
 - JSON Web Tokens (JWT) for authentication
 
 ## Installation
-
+ 
 1. Clone the repository:
 
    ```bash
